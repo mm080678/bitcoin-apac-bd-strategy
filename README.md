@@ -60,6 +60,64 @@ These campaigns focused on:
 
 ---
 
+
+My background combines **media platform leadership, event sponsorship development, and Web3 ecosystem partnerships across Asia**.
+
+I currently serve as **Regional Manager for Chinese & APAC markets at Clickout Media**, where I focus on Web3 ecosystem insights, crypto market expansion, and regional partnerships.
+
+My work connects **global crypto companies with Asian markets**, helping projects expand brand visibility, community adoption, and ecosystem influence.
+
+I am familiar with the Bitcoin and Web3 ecosystem across key APAC markets including:
+
+- Mainland China  
+- Hong Kong  
+- Taiwan  
+- Japan  
+- South Korea  
+- Southeast Asia  
+
+Although cryptocurrency trading is restricted in mainland China, the Chinese ecosystem remains highly influential in the global Bitcoin industry, particularly in:
+
+- mining infrastructure  
+- venture capital investment  
+- crypto media platforms  
+- developer communities  
+
+These sectors continue to play an important role in the broader **Asian Bitcoin ecosystem**.
+
+---
+
+# Media & Event Experience – HK01
+
+Before entering the Web3 industry, I worked at **HK01**, one of the largest digital media platforms in Hong Kong.
+
+I served as **Deputy Managing Editor for the Lifestyle & Parenting Division (2016–2022)**, where I led content strategy and editorial operations while also participating in **event development and brand partnerships**.
+
+### Event & Sponsorship Experience
+
+During my time at HK01, I helped organize large-scale events including:
+
+- **01 Parenting Awards**  
+- **01 Education Seminars**  
+- education forums and community events  
+
+These events brought together:
+
+- parents and families  
+- education institutions  
+- corporate sponsors  
+- industry speakers  
+
+My responsibilities included:
+
+- developing brand partnerships  
+- securing event sponsorships  
+- inviting speakers and panel guests  
+- coordinating with corporate and institutional partners  
+
+This experience gave me practical understanding of **event sponsorship models, partnership development, and media-driven event promotion**, which closely aligns with the business model of global conferences such as the Bitcoin Conference.
+
+---
 # Clients & Industry Partners
 
 Projects involved collaboration with companies across the crypto ecosystem, including:
