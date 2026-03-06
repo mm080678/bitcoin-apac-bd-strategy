@@ -8,13 +8,13 @@ APAC Market Development | Web3 Ecosystem Partnerships
 
 # Profile
 
-I am a market development and digital media professional with **10+ years of experience in media, partnerships, and event-driven business development**, and over **three years of experience in the Web3 and cryptocurrency industry**.
+My background combines **media platform leadership, event sponsorship development, and Web3 ecosystem partnerships across Asia**.
 
-Currently, I serve as **Regional Manager for Chinese & APAC markets at Clickout Media**, focusing on Web3 ecosystem insights, crypto market expansion, and regional partnerships.
+I currently serve as **Regional Manager for Chinese & APAC markets at Clickout Media**, where I focus on Web3 ecosystem insights, crypto market expansion, and regional partnerships.
 
-My work connects **global crypto companies with Asian markets**, supporting brand visibility, community adoption, and ecosystem influence.
+My work connects **global crypto companies with Asian markets**, helping projects expand brand visibility, community adoption, and ecosystem influence.
 
-Through my experience in digital media and the crypto industry, I have developed strong familiarity with the **APAC Bitcoin ecosystem**, including:
+I am familiar with the Bitcoin and Web3 ecosystem across key APAC markets including:
 
 - Mainland China  
 - Hong Kong  
@@ -25,7 +25,7 @@ Through my experience in digital media and the crypto industry, I have developed
 
 Although cryptocurrency trading is restricted in mainland China, the Chinese ecosystem remains highly influential in the global Bitcoin industry, particularly in:
 
-- mining hardware and infrastructure  
+- mining infrastructure  
 - venture capital investment  
 - crypto media platforms  
 - developer communities  
@@ -58,32 +58,6 @@ These campaigns focused on:
 - narrative-driven marketing  
 - community growth across APAC markets  
 
----
-
-
-My background combines **media platform leadership, event sponsorship development, and Web3 ecosystem partnerships across Asia**.
-
-I currently serve as **Regional Manager for Chinese & APAC markets at Clickout Media**, where I focus on Web3 ecosystem insights, crypto market expansion, and regional partnerships.
-
-My work connects **global crypto companies with Asian markets**, helping projects expand brand visibility, community adoption, and ecosystem influence.
-
-I am familiar with the Bitcoin and Web3 ecosystem across key APAC markets including:
-
-- Mainland China  
-- Hong Kong  
-- Taiwan  
-- Japan  
-- South Korea  
-- Southeast Asia  
-
-Although cryptocurrency trading is restricted in mainland China, the Chinese ecosystem remains highly influential in the global Bitcoin industry, particularly in:
-
-- mining infrastructure  
-- venture capital investment  
-- crypto media platforms  
-- developer communities  
-
-These sectors continue to play an important role in the broader **Asian Bitcoin ecosystem**.
 
 ---
 
