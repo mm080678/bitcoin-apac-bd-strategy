@@ -298,3 +298,25 @@ This model has been successfully used by events such as:
 # APAC Bitcoin Sponsor Map
 
 Understanding the structure of the **APAC Bitcoin ecosystem** helps identify potential sponsors and partners.
+
+---
+
+# Strategic Value
+
+By combining:
+
+- APAC market networks  
+- Web3 ecosystem experience  
+- sponsorship development  
+- media partnerships  
+
+**Bitcoin Hong Kong** can strengthen its position as the **leading Bitcoin conference in Asia**.
+
+---
+
+# Contact
+
+**Amanda Wong**
+
+LinkedIn  
+https://www.linkedin.com/in/amanda-wong-1b39b2140/
