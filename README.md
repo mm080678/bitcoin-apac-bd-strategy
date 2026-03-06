@@ -1,33 +1,42 @@
-# bitcoin-apac-bd-strategy
-APAC Business Development Strategy for Bitcoin Hong Kong | Sponsor Pipeline | Bitcoin Ecosystem Map
 # APAC Business Development Strategy  
 ## Bitcoin Hong Kong Conference
 
-Amanda Wong  
-APAC Market Development | Web3 Ecosystem Partnerships  
+**Amanda Wong**  
+APAC Market Development | Web3 Ecosystem Partnerships
 
 ---
 
 # Profile
 
-I am a market development and media professional with **10+ years of experience in digital media, partnerships, and event-driven business development**, and over **three years of experience in the Web3 and cryptocurrency industry**.
+I am a market development and digital media professional with **10+ years of experience in media, partnerships, and event-driven business development**, and over **three years of experience in the Web3 and cryptocurrency industry**.
 
 Currently, I serve as **Regional Manager for Chinese & APAC markets at Clickout Media**, focusing on Web3 ecosystem insights, crypto market expansion, and regional partnerships.
 
-My work connects **global crypto companies with Asian markets**, supporting brand visibility, community adoption, and ecosystem growth.
+My work connects **global crypto companies with Asian markets**, supporting brand visibility, community adoption, and ecosystem influence.
 
-Through this experience, I have developed strong familiarity with:
+Through my experience in digital media and the crypto industry, I have developed strong familiarity with the **APAC Bitcoin ecosystem**, including:
 
-- Bitcoin ecosystem development
-- APAC crypto market dynamics
-- Web3 retail investor communities
-- digital media and growth marketing
+- Mainland China  
+- Hong Kong  
+- Taiwan  
+- Japan  
+- South Korea  
+- Southeast Asia  
+
+Although cryptocurrency trading is restricted in mainland China, the Chinese ecosystem remains highly influential in the global Bitcoin industry, particularly in:
+
+- mining hardware and infrastructure  
+- venture capital investment  
+- crypto media platforms  
+- developer communities  
+
+These sectors continue to play an important role in the broader **Asian Bitcoin ecosystem**.
 
 ---
 
 # Web3 Industry Experience
 
-Over the past three years, I have supported **Go-To-Market (GTM) campaigns and market expansion strategies** for several crypto projects.
+Over the past three years, I have supported **Go-To-Market (GTM) campaigns and growth strategies** for multiple Web3 and crypto projects targeting retail users and global markets.
 
 ## Selected Projects
 
@@ -43,11 +52,17 @@ Over the past three years, I have supported **Go-To-Market (GTM) campaigns and m
 - Tamadoge  
 - Sponge  
 
+These campaigns focused on:
+
+- market positioning  
+- narrative-driven marketing  
+- community growth across APAC markets  
+
 ---
 
-## Clients & Industry Partners
+# Clients & Industry Partners
 
-Campaigns involved companies across the crypto ecosystem, including:
+Projects involved collaboration with companies across the crypto ecosystem, including:
 
 - Binance  
 - OKX  
@@ -55,236 +70,231 @@ Campaigns involved companies across the crypto ecosystem, including:
 - WEEX  
 - IZAKA-YA Wallet  
 
-These initiatives focused on:
-
-- market positioning  
-- narrative-driven marketing  
-- community growth across APAC markets
+These partnerships focused on expanding **brand visibility and community growth in APAC markets**.
 
 ---
 
 # APAC Market Opportunity
 
-Asia is one of the fastest-growing regions for **Bitcoin adoption and Web3 development**.
+Asia is one of the **fastest-growing regions for Bitcoin adoption and Web3 development**.
 
 ## Tier 1 Markets
 
+- Mainland China  
 - Hong Kong  
+- Taiwan  
 - Japan  
+- Singapore  
 - South Korea  
 
 ## Tier 2 Markets
 
-- Taiwan  
-- Singapore  
-- Southeast Asia  
+- Southeast Asia (Indonesia, Malaysia, Vietnam, Thailand)
 
-These markets have strong:
+These regions have:
 
-- crypto trading activity
-- Web3 startup ecosystems
-- Bitcoin developer communities
+- active crypto trading markets  
+- strong developer communities  
+- rapidly growing Web3 startup ecosystems  
 
-This creates strong demand for **Bitcoin ecosystem conferences and partnerships**.
+In addition, the broader Asian ecosystem includes influential players from mainland China, particularly in **mining infrastructure, venture capital, and crypto media**, which remain deeply connected to the global Bitcoin industry.
 
 ---
 
 # Core Business Development Strategy
 
-The growth of **Bitcoin Hong Kong** can be supported through three core pillars.
+The growth of **Bitcoin Hong Kong** can be supported through three core pillars:
+
+1. Sponsor Pipeline Development  
+2. SEO & Media Visibility  
+3. Ecosystem Partnerships  
 
 ---
 
-# 1. Sponsor Pipeline Development
+# Sponsor Pipeline Development
 
-Build a structured APAC sponsor pipeline.
+Building a structured **APAC sponsor pipeline** is critical.
 
 ## Global Crypto Exchanges
 
-- Binance
-- OKX
-- Bybit
-- Bitget
-- Crypto.com
+- Binance  
+- OKX  
+- Bybit  
+- Bitget  
+- Crypto.com  
+
+These companies frequently sponsor global Web3 conferences.
 
 ## Regional Exchanges
 
+Local exchanges are strong candidates for regional sponsorship.
+
 ### Hong Kong
 
-- HashKey Exchange
-- OSL
+- HashKey  
+- OSL  
 
 ### Taiwan
 
-- MaiCoin
-- BitoPro
-- HOYA BIT
+- MaiCoin  
+- BitoPro  
+- HOYA BIT  
 
 ### Japan
 
-- bitFlyer
-- bitbank
+- bitFlyer  
+- bitbank  
 
 ### South Korea
 
-- Upbit
-- KuCoin
-
-## Bitcoin Infrastructure
-
-- Blockstream
-- Bitmain
-- Lightning Labs
-
-## Wallet Ecosystem
-
-- Trust Wallet
-- SafePal
-- imToken
-- Best Wallet
-- IZAKA-YA Wallet
+- Upbit  
+- KuCoin  
 
 ---
 
-# 2. SEO & Media Visibility Strategy
+## Bitcoin Infrastructure
 
-Current search visibility for **Bitcoin Asia related keywords remains limited**.
+Infrastructure companies play a key role in the Bitcoin ecosystem.
 
-Example:
+Potential partners include:
 
-Ahrefs shows that **Bitcoin Asia has around 900 monthly searches**, suggesting strong growth opportunity.
+- Blockstream  
+- Bitmain  
+- Canaan  
+- MicroBT  
+- Lightning Labs  
+
+Companies such as **Bitmain, Canaan, and MicroBT** are global leaders in Bitcoin mining hardware and represent important ecosystem participants.
+
+---
+
+## Wallet Ecosystem
+
+Wallet providers often sponsor conferences to promote adoption.
+
+Examples include:
+
+- Trust Wallet  
+- SafePal  
+- imToken  
+- Best Wallet  
+- IZAKA-YA Wallet  
+
+---
+
+# Ecosystem & Media Partnerships
+
+Partnerships with media and community platforms can significantly increase conference visibility.
+
+## Crypto Media
+
+Potential partners include regional crypto media platforms across Asia:
+
+- Odaily  
+- BlockBeats  
+- PANews  
+- ChainCatcher  
+
+These platforms have strong influence in the Chinese-speaking Web3 community and could support:
+
+- conference coverage  
+- speaker interviews  
+- ecosystem discussions  
+
+---
+
+## Venture Capital & Ecosystem Investors
+
+Investment firms remain active participants in the Bitcoin ecosystem across Asia.
+
+Examples include:
+
+- Fenbushi Capital  
+- HashKey Capital  
+- SNZ Holding  
+
+These firms may participate in:
+
+- investor panels  
+- startup networking events  
+- ecosystem discussions  
+
+---
+
+# SEO & Media Visibility Strategy
+
+Current search visibility for **Bitcoin Asia related keywords remains relatively limited**.
+
+For example, Ahrefs shows that **“Bitcoin Asia” has around 900 monthly searches**, suggesting strong opportunity to expand digital visibility.
 
 ## SEO Objective
 
 Ensure that searches for:
 
-- Bitcoin Asia
-- Bitcoin Hong Kong
-- Bitcoin conference Asia
+- Bitcoin Asia  
+- Bitcoin Hong Kong  
+- Bitcoin conference Asia  
 
-consistently return high-quality media coverage.
-
-## Bilingual SEO Strategy
-
-Content should be published in **both English and Chinese**.
-
-### English Keywords
-
-- Bitcoin Asia
-- Bitcoin Hong Kong event
-- Bitcoin conference Asia
-
-### Chinese Keywords
-
-- 比特幣亞洲峰會
-- 香港比特幣大會
-
-This improves search visibility across both **global and Chinese-speaking audiences**.
+return high-quality media coverage and ecosystem discussions.
 
 ---
 
-# 3. Ecosystem Partnerships
+## Bilingual SEO Strategy
 
-Expand the conference through ecosystem collaboration.
+Content should be developed in **both English and Chinese**.
 
-## Crypto Media
+### English Keywords
 
-- regional crypto news platforms
-- Web3 media publications
+- Bitcoin Asia  
+- Bitcoin Hong Kong event  
+- Bitcoin conference Asia  
 
-## Community Partners
+### Chinese Keywords
 
-- Bitcoin meetups
-- Web3 developer communities
-- blockchain ecosystem groups
+- 比特幣亞洲峰會  
+- 香港比特幣大會  
 
-These partnerships help expand **regional awareness and ecosystem engagement**.
+This improves search visibility across **global and Chinese-speaking audiences**.
 
 ---
 
 # Growth Initiatives
 
-Beyond sponsorship, Bitcoin Hong Kong can strengthen its ecosystem influence through additional initiatives.
+To further expand the influence of Bitcoin Hong Kong, several ecosystem initiatives could be developed.
 
 ## Bitcoin Asia Ecosystem Partners
 
 Create a partner program including:
 
-- exchanges
-- wallet providers
-- infrastructure companies
-- venture capital firms
+- exchanges  
+- infrastructure companies  
+- wallet providers  
+- venture capital firms  
 
-Benefits include:
+Benefits may include:
 
-- brand exposure
-- speaking opportunities
-- ecosystem collaboration
+- brand exposure  
+- speaking opportunities  
+- ecosystem collaboration  
 
 ---
 
 ## Bitcoin Hong Kong Week
 
-Expand the conference into a **city-wide ecosystem event**.
+Expand the conference into a broader ecosystem event including:
 
-Possible activities include:
-
-- Bitcoin developer meetups
-- VC networking events
-- mining industry discussions
-- community gatherings
+- developer meetups  
+- VC networking events  
+- mining industry panels  
+- community gatherings  
 
 This model has been successfully used by events such as:
 
-- Token2049
-- Devcon
-
----
-
-## Asia Bitcoin Media Alliance
-
-Develop a regional crypto media network across:
-
-- Hong Kong
-- Taiwan
-- Japan
-- South Korea
-- Southeast Asia
-
-The goal is to ensure **Bitcoin Asia searches return strong media coverage**.
-
----
-
-## Sponsor ROI Framework
-
-Sponsors increasingly focus on measurable ROI.
-
-A sponsorship package could include:
-
-- speaking opportunities
-- podcast interviews
-- media exposure
-- ecosystem reports
-
-This positions sponsorship as **industry influence rather than advertising**.
-
----
-
-## Bitcoin Asia Industry Report
-
-Develop an annual **Bitcoin Asia Adoption Report**, covering:
-
-- Bitcoin adoption trends
-- exchange growth
-- mining activity
-- regulatory developments
-
-The report can be **co-branded with sponsors and ecosystem partners**.
+- Token2049  
+- Devcon  
 
 ---
 
 # APAC Bitcoin Sponsor Map
 
-To support the growth of Bitcoin Hong Kong, it is important to understand the structure of the **APAC Bitcoin ecosystem**.
-
-The ecosystem can be divided into several major sectors.
+Understanding the structure of the **APAC Bitcoin ecosystem** helps identify potential sponsors and partners.
